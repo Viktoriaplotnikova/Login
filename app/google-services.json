@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "862899920550",
+    "firebase_url": "https://login-ff493.firebaseio.com",
+    "project_id": "login-ff493",
+    "storage_bucket": "login-ff493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862899920550:android:929c24357b167dae",
+        "android_client_info": {
+          "package_name": "luhamaa.com.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862899920550-dcuvig4jftk96ckur0fcqhbb8rkjnh9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBx127LfRjzP1HBSOsX-xx8fBdpYeycc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
